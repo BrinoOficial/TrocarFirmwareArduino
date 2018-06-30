@@ -1,12 +1,10 @@
-# ControleCapacitivo
-Um controle capacitivo para o retropie utilizando o estilo do gameboy color. De modo geral, o Arduino é usado como um joystick que pode ser conectado ao computador por meio de sua porta USB. No caso, foi usado um emulador de GameBoy Color para jogar o título "Super Mario Bros". O mesmo projeto pode ser usado para outros jogos, tomando cuidado apenas para emular os controles corretos.
+# TrocarFirmwareArduino
+Uma maneira simples de alterar o firmware do Arduino Uno utilizando o Windows
 
-## Quer saber como montar o projeto? Confira agora mesmo a [wiki](https://github.com/BrinoOficial/ControleCapacitivo/wiki)!
+## Quer saber como executar projeto? Confira agora mesmo a [wiki](https://github.com/BrinoOficial/TrocarFirmwareArduino/wiki)!
 
 ## Versão
 Desenvolvido no Windows 10 64Bits
-* **Brino** - *3.0.1*
-* **Arduino** - *2:1.0.5*
 * **Flip** - *3.4.7*
 
 ## Autores
@@ -16,7 +14,7 @@ Desenvolvido no Windows 10 64Bits
 * **Gabriel Rodrigues Pacheco** - *Autor* - [GabrielRPacheco](https://github.com/gabrielRPacheco)
 
 
-Veja também a lista de [contributors](https://github.com/BrinoOficial/ControleCapacitivo/graphs/contributors).
+Veja também a lista de [contributors](https://github.com/BrinoOficial/TrocarFirmwareArduino/graphs/contributors).
 
 ## Licença
 
